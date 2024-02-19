@@ -14,7 +14,6 @@ SET time_zone = "+00:00";
 -- Database: `healthcare_db`
 --
 -- --------------------------------------------------------
-
 --
 -- Table structure for table `auth_group`
 --
