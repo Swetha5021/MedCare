@@ -12,7 +12,6 @@ import joblib as joblib
 from django.contrib.auth.hashers import make_password
 
 
-
 def about(request):
 	return render(request, 'about.html')
 
