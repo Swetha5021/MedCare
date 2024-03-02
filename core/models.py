@@ -9,7 +9,6 @@ class User(AbstractUser):
     phonenumber = models.CharField(max_length=200,null=True)
 
 
-
 class Medical(models.Model):
     s1 = models.CharField(max_length=200)
     s2 = models.CharField(max_length=200)
