@@ -35,7 +35,7 @@ CREATE TABLE `auth_group_permissions` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 -- --------------------------------------------------------
-
+  
 --
 -- Table structure for table `auth_permission`
 --
